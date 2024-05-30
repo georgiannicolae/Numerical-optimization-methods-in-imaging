@@ -1,1 +1,1 @@
-# Numerical-optimization-methods-in-imaging
+# Numerical optimization methods in imaging

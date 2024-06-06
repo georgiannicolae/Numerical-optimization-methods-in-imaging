@@ -14,4 +14,5 @@ In a wide range of application fields (inverse problems, machine learning, compu
 | 2      | 05.06    | Matlab - low-rank denoising | [Lab-session](Lab-session/Matlab) |
 | 3      | 05.06    | Python - low-rank denoising | [Lab-session](Lab-session/Python) |
 | 4      | 06.06    | Excercises                  |                    |
+
 \* The password will be provided in clasroom and on email
